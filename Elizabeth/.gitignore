@@ -1,0 +1,16 @@
+# Shopify CLI specific
+.shopify/
+config.json
+
+# Local environment & Node
+node_modules/
+.DS_Store
+Thumbs.db
+
+# Build tools (if using Webpack, Vite, or Gulp)
+dist/
+build/
+*.log
+
+# Optional: Ignore specific settings if you want to manage them via Shopify Admin only
+# config/settings_data.json
